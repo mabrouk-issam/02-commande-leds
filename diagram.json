@@ -52,7 +52,7 @@
       "top": 258.99,
       "left": 17.97,
       "rotate": 180,
-      "attrs": { "size": "17" }
+      "attrs": { "size": "17","arrow": "green" }
     },
     {
       "type": "wokwi-stepper-motor",
@@ -60,7 +60,7 @@
       "top": 258.99,
       "left": 190.77,
       "rotate": 180,
-      "attrs": { "size": "17" }
+      "attrs": { "size": "17","arrow": "green" }
     },
     {
       "type": "wokwi-stepper-motor",
@@ -68,7 +68,7 @@
       "top": 268.59,
       "left": 392.37,
       "rotate": 180,
-      "attrs": { "size": "17" }
+      "attrs": { "size": "17","arrow": "green" }
     },
     {
       "type": "wokwi-potentiometer",
